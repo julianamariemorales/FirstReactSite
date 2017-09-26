@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gatsby-starter-default
 The default Gatsby starter
 
@@ -11,3 +12,9 @@ gatsby new gatsby-example-site
 ## Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+=======
+# FirstReactSite
+React, babel and Gatsbyjs
+
+## WorkInProgress
+>>>>>>> branch 'master' of https://github.com/julianamariemorales/FirstReactSite
